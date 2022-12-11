@@ -1,16 +1,12 @@
-### Hi there 👋
+# Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35"/>, my name is Noura Itani
 
-<!--
-**nourai29/nourai29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Analyst and Product Owner
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*Redefining the selling and buying experience with data-driven digital solutions*
+      
+ ## A Little About Me 
+      
+  - 👩🏻‍💻 I am a Business Analyst and a Product Owner 
+  - 📄 View my [Resume](https://docs.google.com/document/d/1hH6uV_u-96nphrZVZPeZvqAkYGyM0EC-xokU5Duq8fo/edit?usp=sharing)
+  - 💻 Learn more about my work, view my [Portfolio](https://nourai29.github.io)
+  - 📫 Reach out to me on *nouraitani29@gmail.com*  
