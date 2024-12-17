@@ -1,18 +1,11 @@
-# Rider Utilization Rate (UTR) Improvement Strategy
+# Rider Utilization Rate: Optemization Plan
 
 ## Goal
 **Increase Rider Utilization Rate (UTR)**
 
 *UTR is defined as the number of deliveries (drops) per hour per rider.*
 
----
-
-## Delivery Hero Q2 2029 Report
-- Despite a fast logistics rollout, **UTR increased by 23% YoY**.
-- In dense areas, **UTR increased by up to 50% YoY**.
-- Improved customer experience due to a reduction in delivery times:
-   - Average delivery time: **~30 minutes**.
-   - Even faster delivery in dense areas.
+- The Rider Utilisation Rate (UTR) is one of the most important measure to fleet performance. Achieving an optimal UTR can not only  improve efficiency and reduce operational cost but also improve customer experience.  
 
 ---
 
@@ -36,8 +29,8 @@ Talabat leverages technology to create **smart and efficient delivery processes*
 ## Current State and Future Goal
 | Metric                          | Today (Current UTR)       | Future (Post-Strategy UTR) |
 |---------------------------------|---------------------------|----------------------------|
-| **Rider Utilization Rate (UTR)**| X (Baseline UTR)          | Y (Optimal UTR)            |
-| **Capacity UTR**               | Actual output / Max output| Higher efficiency          |
+| **Rider Utilization Rate (UTR)**| 2 Orders per Hour        | 7 Orders per Hour           |
+| **Fullfilment Time**            | 17 minutes               | 8 minutes                   |
 
 ---
 
@@ -132,6 +125,12 @@ Improving efficiency across **all steps** of the delivery process will:
   - Underutilized: >20 minutes idle time.
   - Overutilized: <5 minutes idle time.
 - Adjust rider allocation and delivery radii dynamically.
+
+---
+
+## Additional Resources
+For a detailed breakdown and visual insights, refer to the presentation:
+- 📊 [**Google Presentation Link**](https://docs.google.com/presentation/d/1WxRKVFpFB-JqV0uu6G_vfIn92ISynmd1XSD3ZkQvDyU/edit?usp=sharing)
 
 ---
 
